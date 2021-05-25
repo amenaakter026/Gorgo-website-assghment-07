@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+}
+.header{
+    width: 70%;
+    margin-left: 15%;
+    overflow: hidden;
+}
+.logo{
+    width: 10%;
+    float: left;
+    margin-top: 10px;
+}
+nav{
+  
+    width: 90%;
+    float: left;
+    margin-top: 15px;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-size: 15px;
+    color: rgb(104, 104, 104);
+    float: left;
+}
+.theme{
+    width: 20%;
+    float: right;
+    background-color: #FF6162;
+    color: white;
+    text-align: center;
+    padding: 10px;
+ 
+}
+section{
+    width: 60%;
+    margin-left: 20%;
+    overflow: hidden;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.left_content{
+    width: 47%;
+    float: left;
+    margin-top: 30px;
+}
+.left_content h2{
+    color: #292640;
+    text-transform: capitalize;
+    text-align: left;
+
+
+}
+.left_content p{
+    color: #979797;
+    text-transform: capitalize;
+    text-align: left;
+    margin-top: 5%;
+}
+.right_content{
+    width: 47%;
+    float: right;
+}
+.right_content img{
+    width: 100%;
+}
+.demo{
+    width: 40%;
+    margin-left: 30%;
+
+}
+.demo h2{
+    text-align: center;
+    text-transform: capitalize;
+ 
+    font-weight: 300px;
+    color: #392E40;
+    width: 70%;
+    margin-left:15% ;
+}
+.demo p{
+    color: #9D97AA;
+    text-align: center;
+   
+    font-style: italic;
+    width: 85%;
+    font-size: 15px;
+
+
+}
+.item{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.feature_one{
+    width: 22%;
+    float: left;
+}
+.feature_one img,.feature_two img,.feature_three img,.feature_four img{
+    width: 100%;
+    height: 100%;
+   
+}
+.feature_two{
+    width: 22%;
+
+
+    float: left;
+    margin-left: 4%;
+}
+.feature_three{
+    width: 22%;
+
+    float: left;
+    margin-left: 4%;
+    
+}
+.feature_four{
+    width: 22%;
+    float: right;
+   
+}
+.feature{
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+.feature h2{
+    color: #2B3354;
+}
+.feature p{
+    font-style: italic;
+    color: #6e7c8f;
+}
+.features{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+
+.features_top{
+    overflow: hidden;
+    margin-bottom: 30px;
+
+    
+}
+.features_one{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    height: 200px;
+    float: left;
+    padding: 8px;
+  
+    
+}
+.features_one h3,.features_two h3, .features_three h3{
+    text-align: center;
+    color: #464A4C;
+    text-transform: capitalize;
+}
+.features_one p, .features_two p,.features_three p{
+    text-align: center;
+    color:#919494 ;
+}
+.features_one img,.features_two img,.features_three img{
+    width: 30%;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.features_two{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    float: left;
+    margin-left: 3%;
+    height: 200px;
+    padding: 8px;
+}
+.features_three{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    float: right;
+    height: 200px;
+    padding: 8px;
+}
+
+
+.features_bottom{
+    overflow: hidden;
+}
+.features_four{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    height: 200px;
+    float: left;
+    padding: 8px;
+}
+.features_five{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    float: left;
+    margin-left: 3%;
+    height: 200px;
+    padding: 8px;
+}
+.features_six{
+    width: 30%;
+    background-color:#F5F5F5 ;
+    float: right;
+    height: 200px;
+    padding: 8px;
+}
+.features_four img,.features_five img,.features_six img{
+    width: 30%;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.features_four h3,.features_five h3, .features_six h3{
+    text-align: center;
+    color: #464A4C;
+    text-transform: capitalize;
+}
+.features_four p, .features_five p,.features_six p{
+    text-align: center;
+    color:#919494 ;
+}
+footer{
+    width: 100%;
+    height: 200%;
+    background-color: #292640;
+
+
+}
+.footer_section{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding: 10px;
+
+}
+.footer_setion img{
+    
+}
+.footer_section h1{
+text-transform: capitalize;  
+    color: white;
+}
+.footer_section p{
+
+    color: #94929F;
+
+}
